@@ -87,3 +87,4 @@ target/
 .project
 *.iml
 /.gradle/
+.DS_Store
